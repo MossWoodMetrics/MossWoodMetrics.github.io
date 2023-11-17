@@ -6,5 +6,5 @@
 
 - Offer our services to Mental Health Charities in Ireland for free.
 
-- We try and speak Irish sometimes.
+- Promote a better understanding of Irelands history and language.
 
