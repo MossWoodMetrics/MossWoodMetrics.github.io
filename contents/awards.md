@@ -3,12 +3,14 @@
   
 
 
-- First-prize Academic Scholarship, 2023.
+Our values
 
-- Freshman Academic Scholarship, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship, 2021.
-
-- First-prize Academic Scholarship, 2019.
+- We support open source technologies.
+- 
+- We encourage communications in Irish language.
+- 
+- keep data open source data in our community projects.
+- 
+- Facilitate community projects for free.
+- 
+- Offer our services for free to Mental Health Charities in Ireland. 
