@@ -1,10 +1,3 @@
-
-
-  
-
-
-Our values
-
 - We support open source technologies.
 
 - We encourage communications in Irish language.
