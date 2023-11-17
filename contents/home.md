@@ -1,13 +1,18 @@
+Here at MossWoodMetrics our goal is humble. To change everything. How we
 
-He is currently pursuing a Master's Degree in computer science, at School of Computer Science and Technology, China University of Mining and Technology.
+- Consume information
+
+- Present Information
+
+- Report Infromation
+
+- Deliver news and current events
+
+We integrate data analytics and reporting, and teach your team to do the same. We make "place-in-time" dashboards, which is our fresh approach to presenting information better.
+See our Taiscim Community Project as an example. 
 
 #### Email
-sli[at]cumt.edu.cn
+MossWoodMetrics@gmail.com
 
-#### Education
-2022.08 - present, Computer Science and Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-2018.08 - 2022.06, Data Science and Big Data Technology, School of Computer Science and Technology, China University of Mining and Technology.
-
-#### Research Intersts
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+#### Specialities
+Epidemiology, News, Clinical Trials, Life Science, Veterinary Science, History, Archaelogy. 
