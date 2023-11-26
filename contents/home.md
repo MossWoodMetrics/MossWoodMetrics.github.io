@@ -12,7 +12,7 @@ We integrate data analytics and reporting, and teach your team to do the same. W
 See our Taiscim Community Project as an example. 
 
 #### Email
-MossWoodMetrics@gmail.com
+MossWoodMetrics@outlook.com
 
 #### Specialities
 Epidemiology, News, Clinical Trials, Life Science, Veterinary Science, History, Archaelogy. 
