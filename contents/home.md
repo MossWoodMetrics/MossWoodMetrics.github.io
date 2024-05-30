@@ -1,8 +1,14 @@
-Here at MossWoodMetrics our goal is humble. To change everything. How we
+Here at MossWoodMetrics our goal is to present data in a more intuitive way. 
 
-- Consume information
+We believe that data from scientific, historical, or social sources, amongst others, are most powerful when they tell short, concise stories, which can change as the data changes. 
 
-- Present Information
+Our experience is mainly grom a scientific standpoint, whereby we see scientific reports showing results from a small cross-section of time. 
+
+One of the problems with publishing is repeatability. 
+
+meta-analysis 
+
+reliable, adjustable and, and referenceable  
 
 - Report Infromation
 
