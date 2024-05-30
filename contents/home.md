@@ -1,4 +1,4 @@
-Here at MossWoodMetrics our goal is to present data in more intuitive ways, which aim to improve the scientific procces, by increasing transparency, and dealing with problems of repeatability and changing levels of significance with more data. 
+Here at MossWoodMetrics our goal is to present data in more intuitive ways, which aim to improve the scientific procces, and factual story telling by increasing transparency, and dealing with problems of repeatability and changing levels of significance, as well as offering solutions to the diminishing effectiveness of the peer review proccess.
 
 We believe that data from scientific, historical, or social sources, amongst others, is most powerful when it tells short, concise stories, which can change as the data changes, all whilst being referenceable during and after every iteration of the data.
 
