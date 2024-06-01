@@ -1,3 +1,3 @@
-- </strong></strong> Epidemiology: Pathogen Network in European Deer
+- </strong></strong> Better science. Epidemiology: Pathogen Network in European Deer
 
-- </strong></strong>Taiscim: A community History Project.
+- </strong></strong> Better stories. Taiscim: A community History Project.
