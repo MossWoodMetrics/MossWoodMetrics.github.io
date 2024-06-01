@@ -21,8 +21,8 @@
   --bs-green: #63e6be;
   --bs-teal: #5cdbd3;
   --bs-cyan: #4dd0e1;
-  --bs-black: #fff;
-  --bs-white: #000;
+  --bs-black: #000000;
+  --bs-white: #000000;
   --bs-gray: #adb5bd;
   --bs-gray-dark: #e9ecef;
   --bs-gray-100: #343a40;
@@ -41,7 +41,7 @@
   --bs-warning: #ffd43b;
   --bs-danger: #ff6b6b;
   --bs-light: #343a40;
-  --bs-dark: #ffffff;
+  --bs-dark: #000000;
   --bs-primary-rgb: 138, 180, 248;
   --bs-secondary-rgb: 210, 156, 255;
   --bs-success-rgb: 99, 230, 190;
@@ -51,8 +51,8 @@
   --bs-light-rgb: 52, 58, 64;
   --bs-dark-rgb: 0, 0, 0;
   --bs-white-rgb: 0, 0, 0;
-  --bs-black-rgb: 255, 255, 255;
-  --bs-body-color-rgb: 255, 255, 255;
+  --bs-black-rgb: 0, 0, 0;
+  --bs-body-color-rgb: 0, 0, 0;
   --bs-body-bg-rgb: 33, 37, 41;
   --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", "Noto Sans", "Liberation Sans", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
   --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
@@ -61,7 +61,7 @@
   --bs-body-font-size: 1rem;
   --bs-body-font-weight: 500;
   --bs-body-line-height: 1.5;
-  --bs-body-color: #ffffff;
+  --bs-body-color: #000000;
   --bs-body-bg: #212529;
   --bs-border-width: 1px;
   --bs-border-style: solid;
