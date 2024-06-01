@@ -7,7 +7,7 @@
 }
 
 .header {
-  border-bottom: solid 2px rgba(0, 0, 0, 0.2);  /* Lighter border for dark background */
+  border-bottom: solid 2px rgba(0, 0, 0, 1);  /* Lighter border for dark background */
 }
 
 .bg-bottom {
