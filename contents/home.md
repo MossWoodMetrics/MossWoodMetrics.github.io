@@ -1,4 +1,4 @@
-FluidFindings aims to transform scientific data into intuitive, referenceable stories. We address challenges in science like repeatability and transparency through:
+FluidFindings aims to offer fresh scientific and factual  into intuitive, referenceable short-stories, where reviewers are renunerated for quality control, and authors are guided towards research-funding. We address challenges in science like repeatability and transparency through:
 
 Live, curated datasets: Ensure data quality and traceability with strict contribution rules.
 Real-time analysis: Facilitate ongoing data exploration and discovery.
