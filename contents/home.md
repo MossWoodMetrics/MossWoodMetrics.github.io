@@ -2,7 +2,7 @@ FluidFindings is a pioneering platform tackling the challenges that hinder scien
 
 Underpowered studies and research bias are well-documented issues. Additionally, the reproducability of results is declining and there is weakening of confidence in the peer review system structure.
 
-# FluidFindings proposes an alternative approach:
+### FluidFindings proposes an alternative approach:
 
 * **Live, Curated Datasets:** Our system ensures data quality and traceability through strict contribution rules and real-time analysis.
   
