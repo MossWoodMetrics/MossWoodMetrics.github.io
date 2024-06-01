@@ -3,7 +3,7 @@
 :root {
   --background-color: #212529;  /* Dark background color */
   --text-color: #ededed;        /* Light text color */
-  --h-title-color: var(--text-color);  /* Inherit text color for titles */
+  --h-title-color:rgba(0, 0, 0, 0.8) ;  /* Inherit text color for titles */
 }
 
 .header {
