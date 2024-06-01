@@ -1,8 +1,3 @@
+- </strong></strong> Epidemiology: Pathogen Network in European Deer
 
-- </strong></strong>Taiscim: A community Ireland History Project.
-
-- </strong></strong> Disease Epidemiology: Pathogen Network in European deer.
-
-- </strong></strong> Automated reporting for environment consultancy
-
-- </strong></strong> The news, but different.
+- </strong></strong>Taiscim: A community History Project.
