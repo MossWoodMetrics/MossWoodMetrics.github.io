@@ -1,10 +1,8 @@
-## FluidFindings: Rethinking Research for a More Robust Future
-
 FluidFindings is a pioneering platform tackling the challenges that hinder scientific research. We aim to address issues like project replicability, transparency, bias, limited data (underpowered studies), and quality control. 
 
 Underpowered studies and research bias are well-documented issues. Additionally, the reproducability of results is declining and there is weakening of confidence in the peer review system structure.
 
-FluidFindings proposes an alternative approach:
+# FluidFindings proposes an alternative approach:
 
 * **Live, Curated Datasets:** Our system ensures data quality and traceability through strict contribution rules and real-time analysis.
   
