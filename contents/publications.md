@@ -1,3 +1,3 @@
-- </strong></strong> Better science. Epidemiology: Pathogen Network in European Deer
+- </strong></strong> Better science: Pathogen Network in European Deer
 
-- </strong></strong> Better stories. Taiscim: A community History Project in Ireland.
+- </strong></strong> Better stories: A community History Project in Ireland.
