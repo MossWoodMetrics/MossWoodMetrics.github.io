@@ -1,13 +1,13 @@
 @import "./styles.css";
 
 :root {
-  --background-color: #212529;  /* Dark background color */
-  --text-color: #ededed;        /* Light text color */
-  --h-title-color: var(--text-color);  /* Inherit text color for titles */
+  --background-color: #000;  /* Pure black background */
+  --text-color: #fff;        /* White text for high contrast */
+  --h-title-color: #f0f8ff;  /* Light gray for large titles */
 }
 
 .header {
-  border-bottom: solid 2px rgba(255, 255, 255, 0.2);  /* Lighter border for dark background */
+  border-bottom: solid 2px rgba(255, 255, 255, 0.1);  /* Very light border for black background */
 }
 
 .bg-bottom {
@@ -24,7 +24,7 @@
 
 .top-section h2 {
   font-weight: 400;
-  color: var(--text-color);
+  color: var(--h-title-color);
 }
 
 .top-section .top-section-content {
@@ -39,7 +39,7 @@
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.8);  /* Adjust opacity for better contrast */
+  background: rgba(0, 0, 0, 0.8);  /* Adjust opacity for readability */
 }
 
 section header h2 {
@@ -82,7 +82,7 @@ section .main-body {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(0, 0, 0, 0.6);  /* Adjust opacity for better contrast */
+  background: rgba(0, 0, 0, 0.6);  /* Adjust opacity for readability */
 }
 
 .photo {
