@@ -2,6 +2,10 @@ FluidFindings offers a fresh approach to academia, research, and factual reporti
 
 We address key challenges such as project repeatability, transparency, and quality control. 
 
+Scientific results are not static, like research manuscripts suggest. Why then ? 
+
+For each project we offer.
+
 Live, curated datasets: Ensure data quality and traceability with strict contribution rules and real-time analysis.
 
 Peer review with incentives: Enhance reliability through compensated reviews.
