@@ -1,11 +1,5 @@
 @import "./styles.css";
 
-:root {
-  --background-color: #000;  /* Pure black background */
-  --text-color: #fff;        /* White text for high contrast */
-  --h-title-color: #f0f8ff;  /* Light gray for large titles */
-}
-
 .header {
   border-bottom: solid 2px rgba(255, 255, 255, 0.1);  /* Very light border for black background */
 }
