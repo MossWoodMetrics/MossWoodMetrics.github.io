@@ -100,7 +100,7 @@ section .main-body{
 
 #avatar img {
     height: max(100px,min(50px,calc(100vw/8)));
-    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.2);
+    box-shadow: 555px 555px 555px rgba(0, 0, 0, 0.2);
 }
 
 @media screen and (max-width: 991px) {
