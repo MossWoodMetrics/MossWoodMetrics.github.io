@@ -1,6 +1,6 @@
-We tackle the challenges that hinder scientific research and factual reporting. We aim to address issues like project replicability, transparency, bias, limited data (underpowered studies), and quality control. 
+We tackle the challenges that hinder scientific research and factual reporting. We aim to address issues like project reproducability, transparency, bias, limited data (underpowered studies), and quality control. 
 
-Underpowered studies and research bias are well-documented issues. Additionally, the reproducability of results is declining and there is weakening confidence in the peer review system structure.
+Underpowered studies and research bias are well-documented issues in academia. Additionally, there is  reproducability crises, with many studies either never being repdroduced, snd others not being possible to reproducs. Further scientists and researchers are tired,and are losing in existing peer review system and structure.
 
 ### FluidFindings proposes an alternative approach:
 
