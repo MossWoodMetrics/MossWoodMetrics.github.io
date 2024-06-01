@@ -1,10 +1,3 @@
-- We support open source technologies.
+Research Innovation: We champion a culture that empowers researchers. We want to free up valuable time for researchers to do innovative tasks imstead of administrative tasks. 
 
-- keep data open source in our community projects.
-
-- Facilitate community projects for free.
-
-- Offer our services to Mental Health Charities in Ireland for free.
-
-- Promote a better understanding of Irelands history and language.
-
+Giving Back: We are committed to supporting charitable causes, particularly those focused on mental health within academic circles. 
