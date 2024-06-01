@@ -2,7 +2,7 @@
 
 :root {
   --background-color: #212529;  /* Dark background color */
-  --text-color: #ededed;        /* Light text color */
+  --text-color: rgb(0,0,0);        /* Light text color */
   --h-title-color: var(--text-color);  /* Inherit text color for titles */
 }
 
