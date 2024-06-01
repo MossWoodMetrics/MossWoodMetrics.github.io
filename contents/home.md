@@ -4,9 +4,9 @@ Underpowered studies and research bias are well-documented issues. Additionally,
 
 ### FluidFindings proposes an alternative approach:
 
-* **Live, Curated Datasets:** Our system ensures data quality and traceability through strict contribution rules and real-time analysis.
+* ***Live, Curated Datasets:*** Our system ensures data quality and traceability through strict contribution rules and real-time analysis.
   
-* **Incentivized Participation:** We reward project creators, data contributors, and reviewers to enhance research reliability through compensated reviews.
+* ***Incentivized Participation:*** We reward project creators, data contributors, and reviewers to enhance research reliability through compensated reviews.
 
 * ***Short, Data-Driven Stories:*** We present complex information in clear and concise formats, aiming to reduce reading time and improve knowledge absorption.
 
